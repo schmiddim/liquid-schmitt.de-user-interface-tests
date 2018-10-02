@@ -42,7 +42,7 @@ describe('Shopware Put something in the Basket', () => {
         await sleep(5);   //fade out too
     }, 15000);
 
-    it('should display "google" text on page', async () => {
+    it('should display "Momo - Soda Lish" text on page', async () => {
         await expect(page).toMatch('Momo - Soda Lish 0mg 50ml')
     });
 
