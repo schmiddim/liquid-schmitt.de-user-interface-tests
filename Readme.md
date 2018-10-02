@@ -1,13 +1,13 @@
-#User interface Tests for liquid-schmitt.de
-##Prerequisites
+# User interface Tests for liquid-schmitt.de
+## Prerequisites
 - nodejs
 - yarn
 
-##Installation
+## Installation
 ``` 
 yarn install 
 ```  
-##Run
+## Run
 ``` 
 npm run test:add-to-basket
 ```  
